@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nikitos-div/TaxiBot/issues"
   },
-  "homepage": "https://github.com/Nikitos-div/TaxiBot#readme"
+  "homepage": "https://github.com/Nikitos-div/TaxiBot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
